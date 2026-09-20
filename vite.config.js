@@ -15,5 +15,4 @@ export default defineConfig({
       brotliSize: true,
     }),
   ],
-  base: "/Shop.co/",
 });
